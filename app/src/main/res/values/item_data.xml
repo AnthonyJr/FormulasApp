@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_items">
+        <item>BMI Calculator</item>
+        <item>Quadratic Formula</item>
+
+    </string-array>
+</resources>
